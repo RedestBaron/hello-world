@@ -1,4 +1,4 @@
 # hello-world
 Starting GitHub
-Trying out coding on my own outside of school for the first time!;
-Practicing pull requests...
+Trying out coding on my own outside of school for the first time!
+  Practicing pull requests...
